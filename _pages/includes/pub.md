@@ -25,5 +25,5 @@
 
 - `ESWA` [Parallel Inference for Cross-Collection Latent Generalized Dirichlet Allocation Model and Applications](), **Zhiwen Luo**, Manar Amayri, Wentao Fan, Koffi Eddy Ihou, Nizar Bouguila. *Expert Systems with Applications*.
 - `IEA/AIE 2023` [A Selective Supervised Latent Beta-Liouville Allocation for Document Classification](), **Zhiwen Luo**, Manar Amayri, Wentao Fan, Nizar Bouguila. *Proceedings of the 36th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems (IEA/AIE 2023)*.
-- `Applied Intelligence 2023` [Cross-Collection Latent Beta-Liouville Allocation Model Training with Privacy Protection and Applications](), **Zhiwen Luo**, Manar Amayri, Wentao Fan, Nizar Bouguila. *Applied Intelligence*.
+- `Applied Intelligence` [Cross-Collection Latent Beta-Liouville Allocation Model Training with Privacy Protection and Applications](), **Zhiwen Luo**, Manar Amayri, Wentao Fan, Nizar Bouguila. *Applied Intelligence*.
 
