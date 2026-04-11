@@ -5,12 +5,12 @@
 ## 2026
 
 <!-- 
-- `WWW 2026` [MSW-NTM: A Spherical Wasserstein Autoencoder for Multimodal Neural Topic Modeling with LLM-Guided Topic Refinement](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of SIGIR 2026*, Accepted. (Acceptance rate: 27%)
+- `SIGIR 2026` [MSW-NTM: A Spherical Wasserstein Autoencoder for Multimodal Neural Topic Modeling with LLM-Guided Topic Refinement](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of SIGIR 2026*, Accepted. (Acceptance rate: 27%)
 - `IJCNN 2026` [SpikeDiffusion: A Fully Spiking Structure-Guided Diffusion Framework for Energy-Efficient Image Generation](), X. Han\*, **Zhiwen Luo**\*, W. Zhang, N. Bouguila, W. Su, W. Fan. *Proceedings of IEEE/INNS IJCNN 2026*, Accepted.
 - `ICME 2026` [Hyperspherical Incomplete Multi-View Clustering with Spherical Sliced-Wasserstein Coherence](), **Zhiwen Luo**, W. Fan, M. Amayri, N. Bouguila. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)
 - `ICME 2026` [FedVaDE: Federated Variational Deep Embedding for Privacy-Preserving Generative Clustering](), S. Cai\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)
-- `ICASSP 2026` [ST-HNTM: Joint Speech-Text Neural Topic Modeling on the Hypersphere](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of IEEE ICASSP 2026*, Accepted.
-- `WWW 2026` [Multimodal Topic Discovery in Web Media via von Mises–Fisher Mixture Neural Topic Models](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of The Web Conference 2026*, Accepted. (Acceptance rate: 23%) -->
+- `ICASSP 2026` [ST-HNTM: Joint Speech-Text Neural Topic Modeling on the Hypersphere](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of IEEE ICASSP 2026*, Accepted. -->
+- `WWW 2026` [Multimodal Topic Discovery in Web Media via von Mises–Fisher Mixture Neural Topic Models](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of The Web Conference 2026.* (Acceptance rate: 23%) 
 - `ACM TKDD` [Hyperspherical Representation Learning of Axial Data via Axial VAEs with Watson Distribution](), **Zhiwen Luo**, W. Fan, M. Amayri, N. Bouguila. *ACM Transactions on Knowledge Discovery from Data (TKDD)*.
 - `Neurocomputing` [Adaptive Deep Clustering via Disentangled Hyperspherical VAEs With Contrastive Geometry Optimization](), **Zhiwen Luo**, W. Fan, M. Amayri, N. Bouguila. *Neurocomputing*.
 - `NN` [Neural Topic Modeling on Hyperspheres: Spherical Representation Learning with von Mises-Fisher Mixtures](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Neural Networks*.
